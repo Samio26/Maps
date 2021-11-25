@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1002441825059",
+    "project_id": "sami-f84e5",
+    "storage_bucket": "sami-f84e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002441825059:android:65ef90f6aef6ad03c4ca96",
+        "android_client_info": {
+          "package_name": "com.example.testh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002441825059-800ingrvmkdru0ag8num7hv7idkr7srv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQr9O7XkbiwRuvMs9oUPflpzqt-tFPhxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002441825059-800ingrvmkdru0ag8num7hv7idkr7srv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
